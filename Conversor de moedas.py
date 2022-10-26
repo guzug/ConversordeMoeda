@@ -9,7 +9,7 @@ def titulo(txt):
     print('-'*len(txt))
     
 def moeda():
-    print('\033[35m\n1BRL\n2-USD\n3-OUTRO:\N\33[0;0M')
+    print('\033[35m\n1-BRL\n2-USD\n3-OUTRO:\n\33[0;0m')
     
 
 while True:
